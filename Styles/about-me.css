@@ -48,7 +48,10 @@
 }
 .fa-envelope-open-text {
     grid-column: 1/2;
-    padding: 5px;
+    padding: 2px;
+    position: relative;
+    left: 5px;
+
 }
 .contact-me div {
     grid-column: 2/3;
