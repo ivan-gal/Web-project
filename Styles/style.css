@@ -11,6 +11,8 @@
 }
 body{
     background: #BEBEBE;;
+    display: flex;
+    justify-content: center;
 }
 
 .container {
@@ -19,6 +21,7 @@ body{
     font-family: 'Newsreader', serif;
     margin: 2rem;
     background: white;
+    max-width: 1110px;
 }
 
 .info-container {
