@@ -30,6 +30,7 @@ header h3{
     background: rgb(31, 126, 133);
     border-radius: 50%;
     color: white;
+    margin-bottom: 3px;
 }
 .main-article-title h2{
     margin-left: 1rem;
