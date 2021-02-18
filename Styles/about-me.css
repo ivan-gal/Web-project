@@ -1,6 +1,7 @@
 .article-about-me {
     margin: 1.5rem;
 }
+
 .profile-image {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
